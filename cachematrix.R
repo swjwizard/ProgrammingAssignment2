@@ -15,7 +15,7 @@
 ##  NOTE: I spent a lot of time on this.  After much consternation,
 ##  I found that the solution was simple or I just missed the boat
 ##  entirely.
-##
+##   
 
 ##
 ##  The function, makeCacheMatrix, creates a matrix from parameters
